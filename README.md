@@ -1,5 +1,4 @@
 Hey I'm Daniel I am learning HTML right now, I am 50% done with it then i am going to move on to CSS then java then Python.
-I have a discord with my friends and if anyone wants to join heres the link 
 If anybody knows how I can run HTML Code on this can u pls teach me thx.
 
 That was a while ago. It is 10/17/22 and I lost interest in HTML at some point, didn't do much coding at all until I got into a computer science class in my freshman year and started in python. I enjoyed python; Mainly because It was simple to understand in my opinion but after that I didn't do python for a while until I got my laptop. I saved up money to buy a cheap laptop so I can code in python in my spare time because the school district blocked a lot of things. Now I'm really into python and I want to finish learning about it, but I know I have a long way to go. That doesn't really discourage me though, in fact it makes me even more motivated to see what's capable with using this language.
